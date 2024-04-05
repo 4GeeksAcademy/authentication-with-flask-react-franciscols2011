@@ -1,0 +1,14 @@
+.navbar {
+  padding: 0;
+  height: 12.5vh;
+  background-color: #e7dfd8;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+.btn {
+  border: solid black 1px;
+}
